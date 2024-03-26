@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mustafa Tarhanacı</h1>
+<h1 align="center">Hi 👋, I'm Mustafa Tarhanaci</h1>
 <h3 align="center">A passionate Jr. Cyber Security from Türkiye</h3>
 
 - 🔭 I’m currently working on **Cyber Security 101 Handbook**
