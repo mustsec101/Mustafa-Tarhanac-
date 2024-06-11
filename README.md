@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Tarhanaci</h1>
 <h3 align="center">A passionate Jr. Cyber Security from Türkiye</h3>
 
-- 🔭 I’m currently working on **Cyber Security 101 Handbook**
-
-- 🌱 I’m currently learning **Python, Javascript, C+**
+- 🌱 I’m currently learning **Python,**
 
 - 💬 Ask me about **Cyber Security**
 
